@@ -25,19 +25,19 @@
 -timescale=1ns/10ps
 /mnt/NVME2/synopsys/vcs/W-2024.09-SP1/linux64/bin/vcs1
 simv
-mem.sv
 top.sv
+mem.sv
 mem_test.sv
 107
 which_declare=declare -f
-XDG_SESSION_ID=165
+XDG_SESSION_ID=210
 XDG_RUNTIME_DIR=/run/user/1049
 XDG_DATA_DIRS=/home/Shahd_Abdulmohsan/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
 XA_HOME=/mnt/NVME2/synopsys/xa
 VUI_HOME=/mnt/NVME2/synopsys/vui
 VTRAN_HOME=/mnt/NVME2/synopsys/vtran
-VSCODE_IPC_HOOK_CLI=/run/user/1049/vscode-ipc-8dec67c7-c346-49be-9f4b-98d13099250d.sock
-VSCODE_GIT_IPC_HANDLE=/run/user/1049/vscode-git-c1bb1f46f6.sock
+VSCODE_IPC_HOOK_CLI=/run/user/1049/vscode-ipc-bc85f9e8-851d-4280-906f-d55160f0c712.sock
+VSCODE_GIT_IPC_HANDLE=/run/user/1049/vscode-git-ce8bd3f7cd.sock
 VSCODE_GIT_ASKPASS_NODE=/home/Shahd_Abdulmohsan/.vscode-server/cli/servers/Stable-33fc5a94a3f99ebe7087e8fe79fbe1d37a251016/server/node
 VSCODE_GIT_ASKPASS_MAIN=/home/Shahd_Abdulmohsan/.vscode-server/cli/servers/Stable-33fc5a94a3f99ebe7087e8fe79fbe1d37a251016/server/extensions/git/dist/askpass-main.js
 VSCODE_GIT_ASKPASS_EXTRA_ARGS=
@@ -71,8 +71,8 @@ SYN_HOME=/mnt/NVME2/synopsys/syn
 STARRC_HOME=/mnt/NVME2/synopsys/starrc
 SSL_CERT_FILE=/etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem
 SSL_CERT_DIR=/etc/pki/tls/certs
-SSH_CONNECTION=192.168.1.20 47270 192.168.1.8 22
-SSH_CLIENT=192.168.1.20 47270 22
+SSH_CONNECTION=192.168.1.20 43916 192.168.1.8 22
+SSH_CLIENT=192.168.1.20 43916 22
 SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
 SPYGLASS_HOME=/mnt/NVME2/synopsys/spyglass
 SNPS_VCS_PYTHON3=/mnt/NVME2/synopsys/vcs/W-2024.09-SP1/linux64/bin/Python3/bin/python3
@@ -139,13 +139,13 @@ ALE_HOME=/mnt/NVME2/synopsys/ale
 0
 0
 3
-1739290679 mem_test.sv
-1739195691 top.sv
-1739195691 mem.sv
+1739350241 mem_test.sv
+1739292614 mem.sv
+1739292614 top.sv
 4
 1733288192 /mnt/NVME2/synopsys/vcs/W-2024.09-SP1/linux64/lib/libvirsim.so
 1733286010 /mnt/NVME2/synopsys/vcs/W-2024.09-SP1/linux64/lib/liberrorinf.so
 1733286000 /mnt/NVME2/synopsys/vcs/W-2024.09-SP1/linux64/lib/libsnpsmalloc.so
 1733285992 /mnt/NVME2/synopsys/vcs/W-2024.09-SP1/linux64/lib/libvfs.so
-1739290684 simv.daidir
+1739350319 simv.daidir
 -1 partitionlib
